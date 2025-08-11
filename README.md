@@ -28,9 +28,3 @@ It uses **machine learning regression models** to learn from historical data and
 - **R² Score:** ~0.95 (may vary)
 - **MAE:** Low error margin
 - **RMSE:** Minimal deviation from actual values
-
-## Installation
-```bash
-git clone https://github.com/yourusername/car-price-prediction.git
-cd car-price-prediction
-pip install -r requirements.txt
