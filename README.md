@@ -1,9 +1,9 @@
-# 🚗 Car Price Prediction with Machine Learning
+#  Car Price Prediction with Machine Learning
 
 This project predicts the **selling price of cars** based on various features such as year, fuel type, transmission, and kilometers driven.  
 It uses **machine learning regression models** to learn from historical data and estimate prices for new cars.
 
-## 📊 Dataset
+## Dataset
 - Features:
   - `Car_Name` – Model name
   - `Year` – Year of manufacture
@@ -16,7 +16,7 @@ It uses **machine learning regression models** to learn from historical data and
   - `Owner` – Number of previous owners
 - Rows: ~300 (depending on dataset used)
 
-## 🛠 Steps Followed
+## Steps Followed
 1. Data loading & cleaning
 2. Encoding categorical variables
 3. Splitting into train & test sets
@@ -24,12 +24,12 @@ It uses **machine learning regression models** to learn from historical data and
 5. Evaluating with R² Score, MAE, MSE, RMSE
 6. Visualizing feature importance
 
-## 📈 Results
+## Results
 - **R² Score:** ~0.95 (may vary)
 - **MAE:** Low error margin
 - **RMSE:** Minimal deviation from actual values
 
-## 📦 Installation
+## Installation
 ```bash
 git clone https://github.com/yourusername/car-price-prediction.git
 cd car-price-prediction
